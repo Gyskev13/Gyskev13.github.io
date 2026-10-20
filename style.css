@@ -236,38 +236,3 @@ footer {
 
 /* ---------- REDES SOCIALES ---------- */
 
-.redes {
-    text-align: center;
-    padding: 60px 20px;
-    background-color: #f5f5f5;
-}
-
-.redes h2 {
-    font-size: 30px;
-    margin-bottom: 10px;
-}
-
-.redes p {
-    color: #666;
-    margin-bottom: 25px;
-}
-
-.redes-links {
-    display: flex;
-    justify-content: center;
-    gap: 15px;
-    flex-wrap: wrap;
-}
-
-.redes-links a {
-    background-color: #174d3c;
-    color: white;
-    text-decoration: none;
-    padding: 12px 20px;
-    border-radius: 8px;
-    transition: 0.2s;
-}
-
-.redes-links a:hover {
-    background-color: #d99b45;
-}   
